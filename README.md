@@ -1,4 +1,4 @@
-# Welcome to Ashwin Ganesh's User Page
+# Welcome to Ashwin Ganesh's Page
 
 Avid python developer, naturist and foodie who has a passion for machine learning, blockchain and cybersecurity.
 
