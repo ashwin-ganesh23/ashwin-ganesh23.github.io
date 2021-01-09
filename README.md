@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome to Ashwin Ganesh's User Page
 
-Developer, naturist, avid 
+Developer, naturist, avid foodie who has a passion for machine learning, blockchain and cybersecurity.
 
 ### Markdown
 
