@@ -1,35 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to Ashwin Ganesh's Page
 
-Developer, naturist, avid 
+Avid python developer, naturist and foodie who has a passion for machine learning, blockchain and cybersecurity.
 
-### Markdown
+### UCSD Electrical Engineer: Class of 2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a graduating Electrical Engineer from UCSD with a focus in *Computer System Design*.
 
 ```markdown
-Syntax highlighted code block
+Coursework
 
-# Header 1
-## Header 2
-### Header 3
+## Computer Science
+## Electrical Engineering
+## Economics
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- Python, C, C++, Java Programming
+- OOP
+- Advanced Data Structures and Algorithms
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[LinkedIn](http://www.linkedin.com/in/ashwinganesh42/) and ![Image]((http://github.com/ashwin-ganesh23/ashwin-ganesh23.github.io/profile.png)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashwin-ganesh23/ashwin-ganesh23.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
