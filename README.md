@@ -18,6 +18,7 @@ Coursework
 - OOP
 - Advanced Data Structures and Algorithms
 
+```
 
 [LinkedIn](https://www.linkedin.com/in/ashwinganesh42) and ![Image](profile.jpg)
-```
+
