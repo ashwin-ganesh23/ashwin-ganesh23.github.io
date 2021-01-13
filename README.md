@@ -19,5 +19,5 @@ Coursework
 - Advanced Data Structures and Algorithms
 
 
-[LinkedIn](https://www.linkedin.com/in/ashwinganesh42) and ![Image]((https://www.github.com/ashwin-ganesh23/ashwin-ganesh23.github.io/blob/main/profile.jpg)
+[LinkedIn](https://www.linkedin.com/in/ashwinganesh42) and ![Image](profile.jpg)
 ```
